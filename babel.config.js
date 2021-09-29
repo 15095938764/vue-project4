@@ -8,3 +8,7 @@ module.exports = {
     '@vue/app'
   ]
 }.
+module.exports = {
+  presets: [
+    '@vue/app'
+  ]
