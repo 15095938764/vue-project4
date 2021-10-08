@@ -49,4 +49,4 @@ module.exports = {
   ]module.exports = {
   presets: [
     '@vue/app'
-  ]没办法
+  ]没办法没办法没办法没办法
