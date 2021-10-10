@@ -18,7 +18,7 @@ module.exports = {
   ]
 
 module.exports = {
-  presets: [
+  pesets: [
     '@vue/app'
   ]
 
