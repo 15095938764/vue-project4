@@ -26,7 +26,7 @@ module.exports = {
   presets: [
     '@vue/app'
   ]
-module.exports = {
+module.exports = {lyn shen 
   presets: [
     '@vue/app'
   ]
