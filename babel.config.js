@@ -29,7 +29,12 @@ module.exports = {
 module.exports = {lyn shen 
   presets: [
     '@vue/app'
-  ]
+  ]sets: [
+    '@vue/app'sets: [
+    '@vue/app'sets: [
+    '@vue/app'sets: [
+    '@vue/app'sets: [
+    '@vue/app'
 module.exports = {
   presets: [  ]哒哒哒哒哒哒多多多多多多多多多
 module.exports = {
