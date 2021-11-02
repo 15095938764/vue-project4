@@ -14,7 +14,7 @@ module.exports = {
   ]
 module.exports = {
   presets: [
-    '@vue/app'
+    '@vue/app'多单
   ]
 
 
